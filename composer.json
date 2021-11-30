@@ -1,5 +1,5 @@
 {
-    "name": "maithemewp/mai-sparkle",
+    "name": "maithemewp/mai-delight",
     "authors": [
         {
             "name": "BizBudding",
@@ -13,6 +13,14 @@
         }
     ],
     "require": {
-        "maithemewp/mai-installer": "dev-master"
-    }
+        "maithemewp/mai-installer": "dev-master",
+        "afragen/wp-dependency-installer": "^4.2"
+    },
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-order": true
+    },
+    "minimum-stability": "dev"
 }
