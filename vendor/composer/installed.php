@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '17d5dde34d6e49c8de25cda28a3e64b3c85f7d4d',
+    'reference' => 'ed991ce21b85292dba7f9a3e4a57e016694e51b4',
     'name' => 'maithemewp/mai-delight',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '17d5dde34d6e49c8de25cda28a3e64b3c85f7d4d',
+      'reference' => 'ed991ce21b85292dba7f9a3e4a57e016694e51b4',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
   ),
 );
